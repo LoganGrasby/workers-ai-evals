@@ -1,0 +1,7 @@
+name = "workers-ai-evals"
+main = "src/index.js"
+compatibility_date = "2024-11-20"
+compatibility_flags = ["nodejs_compat"]
+
+[ai]
+binding = "AI"
